@@ -48,6 +48,35 @@ Essas conexões permitem analisar padrões complexos de interação.
 * Estrutura simples e escalável
 * Aplicável a cenários reais de redes sociais
 
+## 🧪 Como Executar as Consultas
+
+1. Abra o Neo4j
+2. Execute o arquivo `dados.cypher` para criar o banco
+3. Execute as consultas em `consultas.cypher`
+
+## 📌 Exemplos de Insights
+
+### Usuários mais influentes
+Retorna os usuários com maior número de seguidores.
+
+### Posts mais populares
+Identifica os conteúdos com maior número de curtidas.
+
+### Usuários mais ativos
+Mostra quais usuários mais interagem na rede.
+
+### Tópicos mais populares
+Indica quais temas possuem maior engajamento.
+
+### Conexões entre usuários
+Permite visualizar relações e possíveis comunidades.
+
 ## 🧑‍💻 Autor
 
 Ishad Lima
+
+
+
+git add README.md
+git commit -m "adicionando explicação das consultas"
+git push
