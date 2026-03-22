@@ -74,9 +74,3 @@ Permite visualizar relações e possíveis comunidades.
 ## 🧑‍💻 Autor
 
 Ishad Lima
-
-
-
-git add README.md
-git commit -m "adicionando explicação das consultas"
-git push
